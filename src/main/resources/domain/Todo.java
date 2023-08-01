@@ -1,5 +1,4 @@
-package src.main.java.sj.todolistCICD.domain;
-
+package domain;
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
